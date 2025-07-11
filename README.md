@@ -1,6 +1,6 @@
 ## How to Create a Matrix-style Console Script
 
-This guide provides instructions for creating a custom script that displays a "Matrix" animation on your Raspberry Pi.
+This guide provides instructions for creating a custom script that displays a "Matrix" animation on Linux.
 
 -----
 
